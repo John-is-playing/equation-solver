@@ -1,4 +1,4 @@
-[中文](https://github.com/John-is-playing/equation-solver/README_ZH.md)|English
+[中文](https://github.com/John-is-playing/equation-solver/blob/main/README_ZH.md)|English
 # Equation Solver
 
 A Python package for solving univariate polynomial equations (degree 1-4) with traditional methods and AI assistance.
