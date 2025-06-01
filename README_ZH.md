@@ -1,3 +1,4 @@
+中文|[English](https://github.com/John-is-playing/equation-solver/edit/main/README_ZH.md)
 # Equation Solver
 ## 方程求解器
 
